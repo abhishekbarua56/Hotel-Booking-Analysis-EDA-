@@ -1,2 +1,4 @@
 # Hotel-Booking-Analysis-EDA-
-This project explores hotel booking data to uncover trends in customer behavior, cancellations, and room preferences. It aims to provide insights for optimizing pricing, reducing cancellations, and improving guest experiences through data-driven decisions.
+**Project Summary:**
+
+The Hotel Booking Analysis project involves performing an Exploratory Data Analysis (EDA) on hotel booking data to gain insights into customer behavior, booking patterns, and trends that affect the hospitality industry. By analyzing various attributes such as booking dates, room types, customer demographics, and cancellations, the project aims to extract valuable insights that can guide decision-making, improve customer experience, and optimize hotel operations. The analysis also explores customer segmentation to help tailor marketing strategies and enhance personalized offerings, ultimately driving better business outcomes.
